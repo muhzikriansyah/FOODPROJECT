@@ -126,7 +126,6 @@
                         <div class="gallery_overlay">
                             <div class="gallery_caption">
                                 <p><em>BRAK FAST</em></p>
-                               <%-- <p>Integer convallis orci vel mi nelaoreet, at ornare lorem consequat. Phasellus era nisl</p>--%>
                             </div>
                         </div>
                     </a>
@@ -135,7 +134,6 @@
                        <div class="gallery_overlay">
                             <div class="gallery_caption">
                                  <p><em>GUJARATI FOOD</em></p>
-                                <%--<p>Integer convallis orci vel mi nelaoreet, at ornare lorem consequat. Phasellus era nisl</p>--%>
                             </div>
                         </div> 
                     </a>
@@ -145,7 +143,6 @@
                         <div class="gallery_overlay">
                             <div class="gallery_caption">
                                 <p><em>SOUTH INDIAN FOOD</em></p>
-                               <%-- <p>Integer convallis orci vel mi nelaoreet, at ornare lorem consequat. Phasellus era nisl</p>--%>
                             </div>
                         </div>
                     </a>
@@ -156,7 +153,6 @@
                         <div class="gallery_overlay">
                             <div class="gallery_caption">
                                 <p><em>PUNJABI FOOD</em></p>
-                                <%--<p>Integer convallis orci vel mi nelaoreet, at ornare lorem consequat. Phasellus era nisl</p>--%>
                             </div>
                         </div>
                     </a>
@@ -165,7 +161,6 @@
                         <div class="gallery_overlay">
                             <div class="gallery_caption">
                                 <p><em>KATHIYAWADI FOOD</em></p>
-                               <%-- <p>Integer convallis orci vel mi nelaoreet, at ornare lorem consequat. Phasellus era nisl</p>--%>
                             </div>
                         </div>
                     </a>
@@ -174,7 +169,6 @@
                         <div class="gallery_overlay">
                             <div class="gallery_caption">
                                 <p><em>SOFT DRINK FOOD</em></p>
-                                <%--<p>Integer convallis orci vel mi nelaoreet, at ornare lorem consequat. Phasellus era nisl</p>--%>
                             </div>
                         </div>
                     </a>
@@ -185,7 +179,6 @@
                         <div class="gallery_overlay">
                             <div class="gallery_caption">
                                 <p><em>ITALIAN FOOD</em></p>
-                                <%--<p>Integer convallis orci vel mi nelaoreet, at ornare lorem consequat. Phasellus era nisl</p>--%>
                             </div>
                         </div>
                     </a>
@@ -195,7 +188,6 @@
                         <div class="gallery_overlay">
                             <div class="gallery_caption">
                                 <p><em>CHINESS FOOD</em></p>
-                               <%-- <p>Integer convallis orci vel mi nelaoreet, at ornare lorem consequat. Phasellus era nisl</p>--%>
                             </div>
                         </div>
                     </a>
@@ -204,7 +196,6 @@
                         <div class="gallery_overlay">
                             <div class="gallery_caption">
                                 <p><em>ICE CREAM</em></p>
-                               <%-- <p>Integer convallis orci vel mi nelaoreet, at ornare lorem consequat. Phasellus era nisl</p>--%>
                             </div>
                         </div>
                     </a>
@@ -232,7 +223,6 @@
                 <a href="#">Privacy Policy</a>
             </div>
         </div>
-        <div class="tm" style="color: #FF6600">Developed By : www.meeraacademy.com</div>
     </footer>
 </div>
 

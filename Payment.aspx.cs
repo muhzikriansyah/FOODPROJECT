@@ -15,7 +15,7 @@ public partial class Member_Payment : System.Web.UI.Page
     protected void Page_Load(object sender, EventArgs e)
     {
         ODT = OAdapter.SELECT_AMT(Session["email"].ToString()); 
-
+        
         lblamt.Text = ODT.Rows[0]["tprice"].ToString();
     }
     protected void rdoonine_CheckedChanged(object sender, EventArgs e)
